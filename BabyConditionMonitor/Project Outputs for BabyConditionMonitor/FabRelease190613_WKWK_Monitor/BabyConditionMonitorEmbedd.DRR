@@ -1,0 +1,16 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: BabyConditionMonitorEmbedd.PcbDoc   6/13/2019  10:15:28 AM
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : BabyConditionMonitorEmbedd.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.3mm (12mil)                                             Round             960       PTH        0.00mm (0.00inch)
+T2      0.6mm (24mil)                                             Round             75        PTH        0.00mm (0.00inch)
+T3      1.55mm (61mil)                                            Round             15        PTH        0.00mm (0.00inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              1050
+
+Total Processing Time (hh:mm:ss) : 00:00:02

@@ -1,0 +1,7 @@
+Added Component: Designator=D5(OPT Sensor VEMD5010X01)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=NetD5_1 Pin=D5-1
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Pin To Net: NetName=NetD5_2 Pin=D5-2
+Added Member To Class: ClassName=BabyConditionMonitor Member=Component D5 VEMD5010X01

@@ -1,0 +1,65 @@
+Altium Designer Pick and Place Locations
+C:\Sync\PCB Data\WKWK\BabyConditionMonitor\Project Outputs for BabyConditionMonitor\Pick Place for BabyConditionMonitor.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       22/03/19
+Time:       18:18
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment                   Layer       Footprint               Center-X(mm) Center-Y(mm) Rotation Description                  Pad-X(mm) Pad-Y(mm) 
+R15        Res3                      TopLayer    1005[0402]_High_Density 30.4800      17.9670      90       Resistor                     30.4800   17.4670   
+R9         Res3                      TopLayer    1005[0402]_High_Density 31.3967      18.6690      270      Resistor                     31.3967   19.1690   
+J1         "USB 2.0 CON"             TopLayer    MicroUSB_WaterProof     37.2110      9.9700       270      "USB2.0 Connector"           37.2110   11.4250   
+D5         VEMD5010X01               BottomLayer OPT_Sensor_VEMD5010X01  31.8941      10.2952      180      ""                           33.1691   8.1952    
+M1         CYBLE-224110-00           TopLayer    CYBLE-224110-00         10.2500      9.2550       180      "BLE Module Long Range"      5.7600    3.3700    
+U3         "HRM AFE"                 BottomLayer ADPD1080                18.7960      15.3670      360      "HRM AFE"                    16.8710   14.1670   
+R14        ""                        TopLayer    1005[0402]              29.3060      14.9860      270      Resistor                     29.3060   15.6360   
+PW1.8V     LM3671                    TopLayer    LM3671_SOT              26.2890      14.3510      180      StepDownDCDC                 27.6640   13.4010   
+L3         Inductor                  TopLayer    INDC1608L               23.4038      13.9109      90       Inductor                     23.4038   13.2109   
+D2         LED                       BottomLayer 1608[0603]_-LED         27.4000      10.3300      90       "LED SMD"                    27.4000   9.4800    
+D3         LED                       BottomLayer 1608[0603]_-LED         31.9141      15.5000      180      "LED SMD"                    32.7641   15.5000   
+D4         LED                       BottomLayer 1608[0603]_-LED         31.8940      6.1000       180      "LED SMD"                    32.7440   6.1000    
+C12        Cap                       TopLayer    1005[0402]_High_Density 17.8100      15.1000      180      Capacitor                    18.3100   15.1000   
+C14        Cap                       TopLayer    1005[0402]_High_Density 17.9960      17.2920      180      Capacitor                    18.4960   17.2920   
+C11        Cap                       TopLayer    1005[0402]_High_Density 32.3210      15.7020      360      Capacitor                    31.8210   15.7020   
+C16        Cap                       TopLayer    1005[0402]_High_Density 22.9288      15.8959      360      Capacitor                    22.4288   15.8959   
+C13        Cap                       TopLayer    1005[0402]_High_Density 17.8100      16.0020      180      Capacitor                    18.3100   16.0020   
+C15        Cap                       TopLayer    1005[0402]_High_Density 27.1190      11.6380      0        Capacitor                    26.6190   11.6380   
+CLIP       SM02B-SURS-TF             TopLayer    SM02B-SURS-TF           2.5000       17.0000      270      ""                           3.4750    17.4000   
+LS1        Buzzer                    TopLayer    ST-0402T                20.4750      4.3180       360      "Magnetic Transducer Buzzer" 22.2250   4.3180    
+U2         "Body Temperature Sensor" BottomLayer MAX30205                2.8420       2.7080       180      "Body Temperature Sebsor"    4.2870    3.6830    
+U1         "Accel Gyro Sensor"       BottomLayer MPU-6050                18.9350      4.6330       180      "Accel Gyro Sensor"          20.8600   5.8830    
+Touch      SM02B-SURS-TF             TopLayer    SM02B-SURS-TF           2.5000       3.0000       270      ""                           3.4750    3.4000    
+R13        Res3                      TopLayer    1005[0402]_High_Density 27.1190      10.5999      360      Resistor                     26.6190   10.5999   
+R12        "Res Semi"                BottomLayer 1005[0402]_High_Density 1.6441       5.1500       180      "Semiconductor Resistor"     2.1441    5.1500    
+R11        Res3                      TopLayer    1005[0402]_High_Density 19.3040      9.1440       270      Resistor                     19.3040   9.6440    
+R10        Res3                      TopLayer    1005[0402]_High_Density 20.1850      9.1440       270      Resistor                     20.1850   9.6440    
+R8         Res3                      TopLayer    1005[0402]_High_Density 3.5360       9.2250       360      Resistor                     3.0360    9.2250    
+R7         Res3                      TopLayer    1005[0402]_High_Density 3.1670       8.1280       360      Resistor                     2.6670    8.1280    
+R6         Res3                      TopLayer    1005[0402]_High_Density 3.1670       7.1800       360      Resistor                     2.6670    7.1800    
+R5         Res3                      TopLayer    1005[0402]_High_Density 32.0040      5.3340       0        Resistor                     31.5040   5.3340    
+R4         Res3                      TopLayer    1005[0402]_High_Density 32.0210      6.4770       180      Resistor                     32.5210   6.4770    
+R3         Res3                      TopLayer    1005[0402]_High_Density 30.2441      7.5300       360      Resistor                     29.7441   7.5300    
+R2         Res3                      TopLayer    1005[0402]_High_Density 30.0990      4.2499       0        Resistor                     29.5990   4.2499    
+R1         Res3                      TopLayer    1005[0402]_High_Density 30.0982      3.0530       0        Resistor                     29.5982   3.0530    
+PW3.3V     "Buck Boost Converter"    TopLayer    RP604x                  26.3690      8.3359       270      "Buck Boost Converter"       27.6190   9.6659    
+L2         PowerInductor             TopLayer    Powerinductor           26.1620      4.1499       225      PowerInductor                27.6611   4.1499    
+L1         Inductor                  TopLayer    INDC1608L               13.1629      17.1450      270      Inductor                     13.1629   17.8450   
+Debug      "Header 5"                TopLayer    MHDR1X5                 8.8900       17.4000      360      "Header, 5-Pin"              6.3500    17.4000   
+D1         FullColorLED              TopLayer    fullColorLED_SMT        1.5000       10.0000      90       ""                           1.0000    10.7750   
+CON_BAT    SM02B-SURS-TF             TopLayer    SM02B-SURS-TF           34.6250      2.1280       360      ""                           34.2250   3.1030    
+Charge     "USB Charger"             TopLayer    BQ24020                 33.1310      8.9300       270      ""                           34.1310   10.3300   
+C10        Cap                       TopLayer    1005[0402]_High_Density 20.9550      1.6400       180      Capacitor                    21.4550   1.6400    
+C9         Cap                       TopLayer    1005[0402]_High_Density 17.5100      1.6400       360      Capacitor                    17.0100   1.6400    
+C8         Cap                       TopLayer    1608[0603]              23.3680      8.1280       270      Capacitor                    23.3680   8.9780    
+C7         Cap                       TopLayer    1005[0402]_High_Density 16.7260      3.9000       0        Capacitor                    16.2260   3.9000    
+C6         Cap                       TopLayer    1005[0402]_High_Density 28.9560      11.1760      270      Capacitor                    28.9560   11.6760   
+C5         Cap                       BottomLayer 1005[0402]_High_Density 2.6750       6.1830       180      Capacitor                    3.1750    6.1830    
+C4         Cap                       TopLayer    1005[0402]_High_Density 16.0060      13.9109      270      Capacitor                    16.0060   14.4109   
+C3         Cap                       TopLayer    1005[0402]_High_Density 14.8730      17.3990      180      Capacitor                    15.3730   17.3990   
+C2         Cap                       TopLayer    1005[0402]_High_Density 34.7980      4.4999       0        Capacitor                    34.2980   4.4999    
+C1         Cap                       TopLayer    1005[0402]_High_Density 35.3060      11.9380      90       Capacitor                    35.3060   11.4380   

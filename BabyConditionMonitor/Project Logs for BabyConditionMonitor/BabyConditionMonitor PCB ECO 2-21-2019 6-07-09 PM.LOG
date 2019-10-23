@@ -1,0 +1,26 @@
+Added Component: Designator=M1(CYBLE-224110-00)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=WGND Pin=M1-1
+Added Pin To Net: NetName=XRES Pin=M1-2
+Added Pin To Net: NetName=NetM1_3 Pin=M1-3
+Added Pin To Net: NetName=NetM1_4 Pin=M1-4
+Added Pin To Net: NetName=NetM1_5 Pin=M1-5
+Added Pin To Net: NetName=ACCEL_SCL Pin=M1-6
+Added Pin To Net: NetName=ACCEL_INT Pin=M1-7
+Added Pin To Net: NetName=NetM1_8 Pin=M1-8
+Added Pin To Net: NetName=SWDCK Pin=M1-9
+Added Pin To Net: NetName=NetC3_2 Pin=M1-11
+Added Pin To Net: NetName=SWDIO Pin=M1-12
+Added Pin To Net: NetName=NetC3_2 Pin=M1-14
+Added Pin To Net: NetName=NetM1_15 Pin=M1-15
+Added Pin To Net: NetName=NetM1_16 Pin=M1-16
+Added Pin To Net: NetName=NetC3_2 Pin=M1-17
+Added Pin To Net: NetName=NetC4_2 Pin=M1-22
+Added Pin To Net: NetName=ACCEL_SDA Pin=M1-23
+Added Pin To Net: NetName=NetCLIP_1 Pin=M1-26
+Added Pin To Net: NetName=NetM1_27 Pin=M1-27
+Added Pin To Net: NetName=NetCharge1_8 Pin=M1-29
+Added Pin To Net: NetName=NetCharge1_3 Pin=M1-30
+Added Pin To Net: NetName=NetCharge1_4 Pin=M1-31
+Added Pin To Net: NetName=WGND Pin=M1-32
+Added Member To Class: ClassName=BabyConditionMonitor Member=Component M1 CYBLE-224110-00

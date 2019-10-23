@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=WGND Pin=LS1-2A
+Removed Member From Class: ClassName=BabyConditionMonitor Member=R9
+Added Pin To Net: NetName=WVDD Pin=LS1-1A
+Added Pin To Net: NetName=NetLS1_2 Pin=LS1-2A
+Added Pin To Net: NetName=NetLS1_2 Pin=M1-8
+Added Net: Name=NetLS1_2

@@ -1,0 +1,21 @@
+Added Component: Designator=J1(MicroUSB WaterProof)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.molex.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www.molex.com/pdm_docs/sd/5000750517_sd.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "rev0, Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacture"; Value = "Molex"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "USB Mini-B, Type 2, Thru-Hole; 5 Position; Vertical, Body 7.7 x 4.2 x 7.7 mm (LxWxH)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "5000750517"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "rev0, Mar-2004"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartNo"; Value = "1051640001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PCB_Layout"; Value = "Complies with Manufacturer's Recommendation."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "30-May-2008"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "VALUE"; Value = ""; VariantName = "[No Variations]"
+Added Pin To Net: NetName=WGND Pin=J1-0
+Added Pin To Net: NetName=WGND Pin=J1-0
+Added Pin To Net: NetName=VIN_5V Pin=J1-1
+Added Pin To Net: NetName=WGND Pin=J1-5
+Added Member To Class: ClassName=BabyConditionMonitor Member=Component J1 USB 2.0 CON

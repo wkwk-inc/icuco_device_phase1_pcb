@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=WGND Pin=Touch-1
+Removed Pin From Net: NetName=NetM1_27 Pin=Touch-2
+Change Component Footprint: Designator=CON_BAT Old Footprint=2P-51021 New Footprint=SM02B-SURS-TF
+Change Component Footprint: Designator=Touch Old Footprint=2P-51021 New Footprint=SM02B-SURS-TF
+Change Component Comment : Designator=CON_BAT Old Comment=2P 1.25mm CON New Comment=SM02B-SURS-TF
+Change Component Comment : Designator=Touch Old Comment=2P 1.25mm CON New Comment=SM02B-SURS-TF
+Change component parameters: Designator = "CON_BAT"; Footprint = "SM02B-SURS-TF"; UniqueID = "\BSVCCYAC"
+Change component parameters. Clean all parameters for all variants
+Change component parameters: Designator = "Touch"; Footprint = "SM02B-SURS-TF"; UniqueID = "\OJDXBPHV"
+Change component parameters. Clean all parameters for all variants
+Added Component: Designator=CLIP(SM02B-SURS-TF)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=WGND Pin=CLIP-2
+Added Pin To Net: NetName=WGND Pin=CLIP-Pad
+Added Pin To Net: NetName=WGND Pin=CLIP-Pad
+Added Pin To Net: NetName=WGND Pin=CON_BAT-Pad
+Added Pin To Net: NetName=WGND Pin=CON_BAT-Pad
+Added Pin To Net: NetName=NetM1_27 Pin=Touch-1
+Added Pin To Net: NetName=WGND Pin=Touch-2
+Added Pin To Net: NetName=WGND Pin=Touch-Pad
+Added Pin To Net: NetName=WGND Pin=Touch-Pad
+Added Pin To Net: NetName=NetCLIP_1 Pin=CLIP-1
+Added Net: Name=NetCLIP_1
+Added Member To Class: ClassName=BabyConditionMonitor Member=Component CLIP SM02B-SURS-TF
